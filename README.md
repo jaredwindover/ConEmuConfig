@@ -1,1 +1,2 @@
 # ConEmuConfig
+Current ConEmu configuration
